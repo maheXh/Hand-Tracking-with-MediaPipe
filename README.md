@@ -1,6 +1,3 @@
-Got it! If you've already added the body pose and face mesh features to your code, you can include that information in your README to provide a complete overview of the project. Here's how you can update the README template to reflect those changes:
-
-```markdown
 # Multi-Purpose Hand, Body, and Face Tracking using MediaPipe and OpenCV
 
 This GitHub repository contains a Python script for real-time multi-purpose tracking using the MediaPipe library and OpenCV. The script captures video from the webcam and uses the MediaPipe Hand, Pose, and Face Mesh modules to detect and track landmarks in the video frames.
