@@ -1,8 +1,8 @@
 # Multi-Purpose Hand, Body, Face, Face Mesh, and Sign Language Tracking using MediaPipe and OpenCV
 
 ![Hand Tracking](131660218-d64be886-2d2e-41d2-94ad-138c00a977ed.jpg)
-![Images Folder](images/now/51525hand_crops.png)
-![Images Folder](images/now/53474logo_horizontal_color.png)
+![Images Folder]()
+![Images Folder](53474logo_horizontal_color.png)
 
 This GitHub repository contains a Python script for real-time multi-purpose tracking using the MediaPipe library and OpenCV. The script captures video from the webcam and employs various MediaPipe modules for comprehensive tracking and analysis of hand, body, face, face mesh, and even simple sign language gestures.
 
